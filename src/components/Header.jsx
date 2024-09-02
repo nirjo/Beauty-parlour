@@ -1,4 +1,4 @@
-import { Lmhigh, reservation } from "../assets";
+import { Lmc, reservation } from "../assets";
 import { headerLinks } from "../data";
 import { NavLink } from "react-router-dom";
 import { Menu } from "./Menu";
@@ -8,7 +8,7 @@ const Header = () => {
       <div className="flex md:px-8 sm:px-4 px-2">
         <NavLink to="/" className="flex sm:px-16 md:px-8 px-2">
           <img
-            src={Lmhigh}
+            src={Lmc}
             alt="web-logo"
             className="w-[191px] h-[36px] leading-[125%]"
           />

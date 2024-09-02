@@ -1,4 +1,4 @@
-import Lmhigh from "./Lmhigh.svg";
+import Lmc from "./Lmc.svg";
 import call from "./call.svg";
 import facebook from "./facebook.svg";
 import twitter from "./twitter.svg";
@@ -55,7 +55,7 @@ import story5 from "./story5.jpg";
 import story6 from "./story6.jpg";
 
 export {
-  Lmhigh,
+  Lmc,
   Logo_white,
   call,
   facebook,
