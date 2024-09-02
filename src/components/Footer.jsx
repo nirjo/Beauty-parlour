@@ -68,7 +68,7 @@ const Footer = () => (
     </div>
     <div className="flex items-center justify-center bg-[#111E22] py-2">
       <p className="text-[#FFF] font-manrope sm:text-[18px] text-center text-[15px] font-normal leading-[200%] py-1 px-3">
-        © Copyright 2023 Beautyness. All Rights Reserved.
+        © Copyright 2023 LeiaMakeovers All Rights Reserved.
       </p>
     </div>
   </div>

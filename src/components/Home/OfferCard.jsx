@@ -9,7 +9,7 @@ const OfferCard = () => (
             MAIL US :
           </h2>
           <p className="text-[#141414] font-manrope text-[15px] font-medium leading-[150%] tracking-wide">
-            info@beautyness.com
+            info@leiamakeovers.com
           </p>
         </div>
       </div>

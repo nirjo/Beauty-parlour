@@ -12,7 +12,7 @@ const About = () => (
           The Beauty is about being Comfortable in your own skin!
         </h2>
         <p className="text-[#5C8692] font-normal font-manrope sm:text-[18px] text-[16px] max-w-[508px] mt-4">
-          At Beautyness, helping clients to look and feel fabulous is what we do
+          At leiamakeovers, helping clients to look and feel fabulous is what we do
           best. We love introducing the latest trends to our beauty salon,
           giving our lovely clients tons of options to choose from
         </p>

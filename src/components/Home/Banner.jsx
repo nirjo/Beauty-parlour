@@ -12,7 +12,7 @@ const Banner = () => (
           className="w-[22px] h-[22px] sm:mr-4 mr-2"
         />
         <p className="text-[#5C8692] font-normal font-manrope uppercase sm:text-[15px] text-[13px]">
-          Welcome to Beautyness!!!
+          Welcome to leiamakeovers!!!
         </p>
       </div>
       <h2 className="text-[#141414] font-playfair sm:text-[70px] text-[45px] font-bold leading-[115%] sm:mt-4 mt-2">
