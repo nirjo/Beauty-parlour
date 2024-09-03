@@ -8,14 +8,10 @@ Beautyness is a modern and responsive website dedicated to beauty and body care.
 ## Features
 
 - **Reusable Components:** Beautyness is designed with modularity in mind. It includes a collection of reusable components that make maintaining and extending the website easy. These components can be used across different sections of the site, ensuring a consistent and user-friendly experience.
-  ![Screenshot (7)](https://github.com/FatemeGhalandari/Beautyness/assets/121693146/6ed69fe5-c0ca-4038-994c-c3616d81280e)
-![Screenshot (8)](https://github.com/FatemeGhalandari/Beautyness/assets/121693146/7b9992ba-329e-4a11-982a-e9dc695cb40f)
-![Screenshot (9)](https://github.com/FatemeGhalandari/Beautyness/assets/121693146/193e4073-71e7-41f5-b4cf-8534a5536dfd)
-
+  
 
 - **Responsive Design:** Beautyness is fully responsive, ensuring it looks great and functions smoothly on various devices, from desktop computers to smartphones and tablets. This responsiveness is achieved using Tailwind CSS's utility classes, making it easy to adapt the layout for various screen sizes.
-    
-![Screenshot (10)](https://github.com/FatemeGhalandari/Beautyness/assets/121693146/07d95d82-338b-4bbe-86dc-a136710f9106) ![Screenshot (11)](https://github.com/FatemeGhalandari/Beautyness/assets/121693146/73569a59-c60d-435e-93c6-6dee225d962d)
+  
 
 - **ReactJS:** The website is built using ReactJS, a popular JavaScript library for building user interfaces. React's component-based architecture allows for efficient development and easy integration of the reusable components mentioned earlier.
 
@@ -30,7 +26,7 @@ Follow these steps to get the Beautyness website up and running on your local ma
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/FatemeGhalandari/Beautyness.git
+   git clone https://github.com/nirjo/Beauty-parlour.git
    ```
 
 2. Navigate to the project directory:

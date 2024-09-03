@@ -11,13 +11,13 @@ const About = () => {
           />
         </div>
         <div className="flex flex-col md:px-16 px-0 pl-8 md:py-0 sm:py-6 py-4">
-          <p className="text-[#FFF] font-manrope text-[15px] font-normal leading-[154.5%] tracking-wide uppercase">
+          <p className="text-[#FFF] font-roboto text-[15px] font-light leading-[154.5%] tracking-wide uppercase">
             about us
           </p>
-          <h4 className="text-[#FFF] font-playfair md:text-[50px] text-[36px] font-semibold leading-[130%] tracking-tight max-w-[460px] pt-4">
+          <h4 className="text-[#FFF] font-montserrat md:text-[50px] text-[36px] font-bold leading-[130%] tracking-tight max-w-[460px] pt-4">
             Style is a Reflection of your Attitude & your Personality
           </h4>
-          <p className="text-[#FFF] font-manrope text-[16px] font-normal leading-[154.5%] tracking-wide sm:max-w-[508px] max-w-[400px] py-4">
+          <p className="text-[#FFF] font-open-sans text-[16px] font-light leading-[154.5%] tracking-wide sm:max-w-[508px] max-w-[400px] py-4">
             There are many variations of passages of Lorem Ipsum available, but
             the majority have suffered alteration in some form, buying to
             injected humour, or randomized words which don't look even many
